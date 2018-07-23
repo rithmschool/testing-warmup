@@ -1,0 +1,19 @@
+{
+  "name": "testing-warmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.1",
+    "supertest": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
